@@ -1,0 +1,1 @@
+testread "integration-compulsory/test-00-compulsory-in.txt" "integration-compulsory/test-00-compulsory-out.txt"
